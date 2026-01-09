@@ -33,7 +33,7 @@ npm run build
     "tail", "head", "cat", "grep", "ls", "ps", "whoami"
   ],
   "serverInfo": {
-    "user": "user -- 필수",
+    "서버에 대한 user 정보 필수": "exec 할때 user 를 같이 보냅니다.",
     "나머지는": "원하는 내용으로",
     "ex - logPaths": {
       "app": "/var/log/app.log",
