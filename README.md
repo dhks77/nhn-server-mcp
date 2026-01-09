@@ -33,7 +33,7 @@ npm run build
     "tail", "head", "cat", "grep", "ls", "ps", "whoami"
   ],
   "serverInfo": {
-    "user": "irteam -- 필수",
+    "user": "user -- 필수",
     "나머지는": "원하는 내용으로",
     "ex - logPaths": {
       "app": "/var/log/app.log",
@@ -90,7 +90,7 @@ npm run build
 ```json
 {
   "host": "server-hostname",
-  "user": "irteam",
+  "user": "user",
   "command": "tail -100 /var/log/app.log"
 }
 ```
